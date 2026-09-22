@@ -80,15 +80,3 @@ Through this project, I strengthened my practical knowledge of:
 ## 🎯 Project Objective
 
 The main objective of this project was to develop a retail management application that simulates real-world shop operations and provides a structured system for managing **products, inventory, sales, and employees**.
-
-## 🔗 GitHub Repository
-
-[Smart Retail Management System](https://github.com/Grontho-Roy-Nirob/Super-Shop-Management-using-.NET-framework-)
-
-## 👨‍💻 Developer
-
-**Grontho Roy**
-
-CSE Student | AIUB
-
-[GitHub Profile](https://github.com/Grontho-Roy-Nirob)
